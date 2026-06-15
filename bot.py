@@ -10,7 +10,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 # ===== НАСТРОЙКИ БОТА =====
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Замените на свой токен
+BOT_TOKEN = "8675680128:AAHFJFAZTOAwhN2n6WxkW8xiFJaf2A7riJQ"  # Замените на свой токен
 
 # Параметры API (из вашего скрипта)
 URL = "https://api.efezgames.com/v1/social/sendChat"
